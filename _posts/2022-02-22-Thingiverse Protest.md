@@ -2,6 +2,7 @@
 layout: post
 title: Thingiverse Protest
 date: 2022-02-22 14:39 +0000
+permalink: /thingiverse
 ---
 
 As of today I am removing my files from Thingiverse and replacing them with links of where to find them on my github.
