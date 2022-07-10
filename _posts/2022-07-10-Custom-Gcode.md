@@ -1,7 +1,7 @@
 ---
 layout: post
-title: Custom Gcode in PrusaSlicer
-date: 2022-07-22 14:39 +0000
+title: Managing Klipper features with Custom Gcode in PrusaSlicer
+date: 2022-07-10 03:00 +0000
 permalink: /custom-gcode
 ---
 
