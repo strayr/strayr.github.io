@@ -43,5 +43,10 @@ and in the filament end gcode I just get rid of pressure advance, mostly because
 {if printer_notes=~/.*PRINTER_OS_KLIPPER.*/} SET_PRESSURE_ADVANCE ADVANCE=0 {endif}
 ```
 
+## Further reading
+* [PrusaSlicer Macro language](https://help.prusa3d.com/article/macros_1775)
+* [PrusaSlicer available variables](https://help.prusa3d.com/article/list-of-placeholders_205643)
+
+
 ![print settings](../images/custom_gcode/print.png)
 ![filament settings](../images/custom_gcode/filament.png)
