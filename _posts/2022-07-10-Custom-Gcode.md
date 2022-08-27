@@ -3,6 +3,7 @@ layout: post
 title: Managing Klipper features with Custom Gcode in PrusaSlicer
 date: 2022-07-10 03:00 +0000
 permalink: /custom-gcode
+categories: klipper superslicer
 ---
 
 PrusaSlicer (and SuperSlicer) have the ability to inject custom gcode from the settings pages. That's great if you use klipper as you can set `PRESSURE_ADVANCE` from the slicer, for each filament.
