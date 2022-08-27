@@ -6,7 +6,7 @@ order: 2
 
 I run klipper on my printers, and maintain some macros for it.
 
-* strayr-k-macros
+* [strayr-k-macros](https://github.com/strayr/strayr-k-macros)
 
 <ul>
   {% for post in site.categories.klipper %}
