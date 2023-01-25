@@ -1,10 +1,10 @@
 ---
-title: Ender 3
+title: Ender 3 Switchwire
 icon: fas fa-info-circle
 order: 2
 ---
 
-I used to have an Ender 3. I converted it into a switchwire.
+I used to have an Ender 3. I converted it into a switchwire. I maintain the [Switchwire Conversion Mod Registry](https://github.com/SW-Conversion/mod-regisistry).
 
 <ul>
   {% for post in site.categories.klipper %}
